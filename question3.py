@@ -14,10 +14,15 @@ Then f(arr) should return array([[-0.34188173,  0.07881104, -1.38675049],
                                  [-0.79772404, -1.65503185,  0.64715023]])
 
 If you are going to test this function, make sure to use an array of floats rather than an array of integers. Otherwise you may run into
-rounding issues. 
+rounding issues.
 """
 
 def f(arr):
     ##########YOUR CODE HERE##########
     pass
     ###########END CODE###############
+
+if __name__=='__main__':
+    ######CREATE TEST CASES HERE######
+    pass
+    ##################################

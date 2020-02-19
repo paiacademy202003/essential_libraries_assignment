@@ -21,3 +21,8 @@ def f(df):
     ##########YOUR CODE HERE##########
     pass
     ###########END CODE###############
+
+if __name__=='__main__':
+    ######CREATE TEST CASES HERE######
+    pass
+    ##################################
